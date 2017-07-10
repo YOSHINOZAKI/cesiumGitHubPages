@@ -185,7 +185,7 @@
     {
         "id": "neko3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "ラーメン",
         "description": "<p class=\"date\">2014.11.9 08:30</p>",
         "billboard": {
             "scaleByDistance": {
@@ -212,9 +212,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                137.617643,
-                36.595495,
-                2875
+                139.393185,
+                35.569331,
+                117
             ]
         },
         "label": {
@@ -243,17 +243,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ラーメン"
+            "text": "一億兆"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    137.617643,
-                    36.595495,
+                    139.393185,
+                    35.569331,
                     2875,
-                    138.6074636,
-                    36.595495,
+                    139.393185,
+                    35.569331,
                     0
                 ]
             },
