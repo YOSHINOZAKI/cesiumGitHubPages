@@ -35,7 +35,7 @@
         "position": {
             "cartographicDegrees": [
                 138.727305,
-                35.360767,
+                35.569994,
                 3999
             ]
         },
@@ -65,17 +65,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ラーメン"
+            "text": "仁兵衛"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
                     138.727305,
-                    35.360767,
+                    35.569994,
                     3999,
                     138.727305,
-                    35.360767,
+                    35.569994,
                     0
                 ]
             },
