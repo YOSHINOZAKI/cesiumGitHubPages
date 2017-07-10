@@ -301,9 +301,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                137.775979,
-                36.773792,
-                2763
+                139.398383,
+                35.568901,
+                115
             ]
         },
         "label": {
@@ -332,17 +332,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ラーメン"
+            "text": "中村麺三郎"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    137.775979,
-                    36.773792,
-                    2763,
-                    137.775979,
-                    36.773792,
+                    139.398383,
+                    35.568901,
+                    115,
+                    139.398383,
+                    35.568901,
                     0
                 ]
             },
