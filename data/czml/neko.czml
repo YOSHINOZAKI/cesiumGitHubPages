@@ -390,9 +390,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.239980,
-                35.700836,
-                2724
+                139.405035,
+                35.572809,
+                107
             ]
         },
         "label": {
@@ -421,17 +421,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ラーメン"
+            "text": "貝ガラ屋"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.239980,
-                    35.700836,
-                    2724,
-                    138.239980,
-                    35.700836,
+                    139.405035,
+                    35.572809,
+                    107,
+                    139.405035,
+                    35.572809,
                     0
                 ]
             },
